@@ -4,4 +4,20 @@ Manchester Music
 ![Flip](808State_.png?raw=true "Model")
 
 
-3D models created in Processing of ten pieces of music from Manchester
+Created in Processing, ten physical forms you can hold in your hands of iconic Manchester music.
+
+Tracks are:
+
+Joy Division - Love Will Tear Us Apart
+
+808 State - Pacific State
+
+The Smiths - How Soon Is Now
+
+The Stone Roses - Waterfall
+
+The Bee Gees - Stayin' Alive
+
+The Buzzcocks - Ever Fallen in Love (With Someone You Shouldn't've)
+
+

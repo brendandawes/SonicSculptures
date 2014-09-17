@@ -1,10 +1,14 @@
-Manchester Music
-================
+Sonic Sculptures for 10 x 10
+============================
 
 ![Flip](808State_.png?raw=true "Model")
 
 
-Created in Processing, ten physical forms you can hold in your hands of iconic Manchester music.
+Created by Brendan Dawes for the DesignMCR 10 x 10 exhibition that took place in Manchester 18th September – 21st September 2014.
+
+Each model was created in Processing, scaled, made hollow and printed on a Makerbot Replicator 2 3D Printer.
+
+Note that because of the support structure required, printing times are considerable. Therefore using an online printing service such as Shapeways may be fairly costly.
 
 Tracks are:
 
